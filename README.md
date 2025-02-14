@@ -1,16 +1,3 @@
----
-dataset_info:
-  name: Image2Latex
-  description: This dataset contains images and their corresponding LaTeX text and equations.
-  license: mit
-  citation: |
-    @article{image2latex,
-      title={Image2Latex: A dataset for recognizing LaTeX expressions from images},
-      author={Author Name},
-      journal={Journal Name},
-      year={2025}
-    }
----
 
 # 简介
 
