@@ -3,7 +3,7 @@
 
 <p style="text-indent: 2em;">这是一个包含图片和对应Latex文本标签的数据集仓库，既有电子文档的图像，也有手写图像，该仓库的数据集全都是真实的数据集。图像中的文本内容复杂多样，适用于训练和测试数学公式识别模型。</p>
 
-<p align="center">下载地址: <a href="https://huggingface.co/datasets/wzmmmm/Image2Latex/tree/main">https://huggingface.co/datasets/wzmmmm/Image2Latex/tree/main</a></p>
+<p align="center">下载地址(huggingface): <a href="https://huggingface.co/datasets/wzmmmm/Image2Latex/tree/main">https://huggingface.co/datasets/wzmmmm/Image2Latex/tree/main</a></p>
 <p align="center">下载地址(kaggle): <a href="https://www.kaggle.com/datasets/weizhiming/images2latex-dataset">https://www.kaggle.com/datasets/weizhiming/images2latex-dataset</a></p>
 
 **目录结构:** 
